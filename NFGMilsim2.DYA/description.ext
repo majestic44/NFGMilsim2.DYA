@@ -38,7 +38,7 @@ reviveBleedOutDelay = 600;
 respawnVehicleDelay = 0;      // Delay prior to respawn
 respawnDialog = 1;            // default = 1. show respawn timer and scoreboard when killed.
 respawnOnStart = -1;
-respawnButton = 1;
+respawnButton = 1; 
 enableDebugConsole = 1;	      // 0 = disabled. 1 = admins, 2 = everybody. 0 is recommended in MP.
 allowFunctionsLog = 1;
 disabledAI=1;				  // No AI in playable units
