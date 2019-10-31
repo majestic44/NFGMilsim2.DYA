@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Project name="NFGMilsim1">
+  <Package name="ZeroAinzLoadOut">
+    <Key ID="zlo_service_name">
+		    <Original>Service</Original>
+				<English>Service</English>
+				<Italian>Servizio</Italian>
+				<Russian>Cервис</Russian>
+		</Key>
+			<Key ID="zlo_apply_text">
+				<Original>Apply</Original>
+				<English>Apply</English>
+				<Italian>Aplica</Italian>
+				<Russian>Применить</Russian>
+			</Key>
+			<Key ID="zlo_change_skin_text">
+				<Original>Change skin :</Original>
+				<English>Change skin :</English>
+				<Italian>Cambia skin :</Italian>
+				<Russian>Сменить скин :</Russian>
+			</Key>
+			<Key ID="zlo_ammo_text">
+				<Original>Rearm</Original>
+				<English>Rearm</English>
+				<Italian>Riarmo</Italian>
+				<Russian>   Пополнить БК</Russian>
+			</Key>
+			<Key ID="zlo_refuel_text">
+				<Original>Refuel</Original>
+				<English>Refuel</English>
+				<Italian>Pieno</Italian>
+				<Russian>Заправить</Russian>
+			</Key>
+			<Key ID="zlo_repair_text">
+				<Original>Repair</Original>
+				<English>Repair</English>
+				<Italian>Riparare</Italian>
+				<Russian>Починить</Russian>
+			</Key>
+			<Key ID="zlo_preset_text">
+				<Original>Preset :</Original>
+				<English>Preset :</English>
+				<Italian>Predefiniti :</Italian>
+				<Russian>Готовый набор :</Russian>
+			</Key>
+			<Key ID="zlo_mirror_text">
+				<Original>Mirror</Original>
+				<English>Mirror</English>
+				<Italian>Spechio</Italian>
+				<Russian>Отзеркалить</Russian>
+			</Key>
+			<Key ID="zlo_windowName_text">
+				<Original>Vehicle loadout</Original>
+				<English>Vehicle loadout</English>
+				<Italian>Manutenzione e rifornimento veicolo</Italian>
+				<Russian>Обслуживание техники</Russian>
+			</Key>
+			<Key ID="zlo_fuel_text">
+				<Original>Fuel</Original>
+				<English>Fuel</English>
+				<Italian>Serbatoio</Italian>
+				<Russian>Топливо</Russian>
+			</Key>
+			<Key ID="zlo_damage_text">
+				<Original>Damage</Original>
+				<English>Damage</English>
+				<Italian>Danno</Italian>
+				<Russian>Урон</Russian>
+			</Key>
+			<Key ID="zlo_empty_text">
+				<Original>Empty</Original>
+				<English>Empty</English>
+				<Italian>Vuoto</Italian>
+				<Russian>Пустой</Russian>
+			</Key>
+			<Key ID="zlo_camo_empty_text">
+				<Original>Default</Original>
+				<English>Default</English>
+				<Italian>Predefinita</Italian>
+				<Russian>Дефолт</Russian>
+			</Key>
+			<Key ID="zlo_spresets_text">
+				<Original>Presets</Original>
+				<English>Presets</English>
+				<Italian>Presets</Italian>
+				<Russian>Наборы</Russian>
+			</Key>
+			<Key ID="zlo_save_text">
+				<Original>Save</Original>
+				<English>Save</English>
+				<Italian>Salva</Italian>
+				<Russian>Сохр.</Russian>
+			</Key>
+			<Key ID="zlo_load_text">
+				<Original>Load</Original>
+				<English>Load</English>
+				<Italian>Apri</Italian>
+				<Russian>Загрузить</Russian>
+			</Key>
+			<Key ID="zlo_delete_text">
+				<Original>Delete</Original>
+				<English>Delete</English>
+				<Italian>Cancella</Italian>
+				<Russian>Удалить</Russian>
+			</Key>
+			<Key ID="zlo_emptyspace_text">
+				<Original>Write the name before saving</Original>
+				<English>Write the name before saving</English>
+				<Italian>Scrivere il nome prima</Italian>
+				<Russian>Напишите имя в поле</Russian>
+			</Key>
+			<Key ID="zlo_pres1_text">
+				<Original>Preset</Original>
+				<English>Preset</English>
+				<Italian>Preset</Italian>
+				<Russian>Набор</Russian>
+			</Key>
+			<Key ID="zlo_pres2_text">
+				<Original>was deleted!</Original>
+				<English>was deleted!</English>
+				<Italian>è stato cancellato!</Italian>
+				<Russian>был удалён!</Russian>
+			</Key>
+			<Key ID="zlo_exitesc_text">
+				<Original>LoadOut was canceled</Original>
+				<English>LoadOut was canceled</English>
+				<Italian>La Manutenzione è anullata</Italian>
+				<Russian>Техническое обслуживание отменено</Russian>
+			</Key>
+			<Key ID="zlo_presetloaded_text">
+				<Original>Selected preset was loaded</Original>
+				<English>Selected preset was loaded</English>
+				<Italian>Il preset scelto è stato caricato</Italian>
+				<Russian>Выбранный набор загружен</Russian>
+			</Key>
+			<Key ID="zlo_saved_text">
+				<Original>was saved</Original>
+				<English>was saved</English>
+				<Italian>è stato salvato</Italian>
+				<Russian>был сохранён</Russian>
+			</Key>
+			<Key ID="zlo_wait_text">
+				<Original>Time left for LoadOut</Original>
+				<English>Time left for LoadOut</English>
+				<Italian>Tempo rimasto per la manutenzione</Italian>
+				<Russian>Время ожидания до окончания обслуживания</Russian>
+			</Key>
+			<Key ID="zlo_sec_text">
+				<Original>sec.</Original>
+				<English>sec.</English>
+				<Italian>sec.</Italian>
+				<Russian>Сек.</Russian>
+			</Key>
+			<Key ID="zlo_serviceeeady_text">
+				<Original>Vehicle is Ready</Original>
+				<English>Vehicle is Ready</English>
+				<Italian>La Manutenzione è finita</Italian>
+				<Russian>Техническое обслуживание завершено</Russian>
+			</Key>
+			<Key ID="zlo_helptext_text">
+				<Original>Info</Original>
+				<English>Info</English>
+				<Italian>Info</Italian>
+				<Russian>Справка</Russian>
+			</Key>
+    </Package>
+	<Package name="ATMDrop">
+		<Key ID="STR_ATM_Alt">
+			<Original>Altitude:</Original>
+			<French>Altitude:</French>
+		</Key>
+		<Key ID="STR_ATM_Keys">
+			<Original>Select Key:</Original>
+			<French>Choisir Une touche:</French>
+		</Key>
+		<Key ID="STR_ATM_Main">
+			<Original>Choose your Altitude and Cut Key</Original>
+			<French>Choisir votre altitude et une touche</French>
+		<Key>
+		<Key ID="STR_ATM_hover">
+			<Original>Select your altitude and your key</Original>
+			<French>Selectionner votre altitude et votre touche</French>
+		</Key>
+		<Key ID="STR_ATM_hinton">
+			<Original>Select Altitude and Designate LZ for HALO Jump on the map</Original>
+			<French>Sélectionner votre Altitude et désigner une LZ sur la carte</French>
+		</Key>
+		<Key ID="STR_ATM_hintjump">
+			<Original>PRESS KEY TO CUT-AWAY ROPES</Original>
+			<French>Appuyer sur votre touche pour couper les suspentes</French>
+		</Key>
+		<Key ID="STR_ATM_hintload">
+			<Original>loading loadout ...</Original>
+			<French>Chargement de votre équipement ...</French>
+		</Key>
+		<Key ID="STR_ATM_Close">
+			<Original>Close</Original>
+			<French>Fermer</French>
+		</Key>
+	</Package>
+</Project>
