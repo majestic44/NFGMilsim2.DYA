@@ -36,7 +36,6 @@ This mission file has the ability to be configured in many ways to make it very 
 - [RHSUSAF](https://steamcommunity.com/sharedfiles/filedetails/?id=843577117)
 - [RHSSAF](https://steamcommunity.com/sharedfiles/filedetails/?id=843632231)
 - [USAF Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=1900726770)
-- [USAF MOD (AC-130Spooky)](https://drive.google.com/open?id=10rFzzJM_zVrhO_8HKqlVLSx31Y3wQhLr)
 - [Project OPFOR](https://steamcommunity.com/sharedfiles/filedetails/?id=735566597)
 - [Specialist Military Arms (SMA)](https://steamcommunity.com/sharedfiles/filedetails/?id=699630614)
 - [CUP Terrains - Core](https://steamcommunity.com/sharedfiles/filedetails/?id=583496184)
