@@ -31,16 +31,20 @@ This mission file has the ability to be configured in many ways to make it very 
 - [DynaSound 2](https://steamcommunity.com/sharedfiles/filedetails/?id=825181638)
 - [Enhanced Movement](https://steamcommunity.com/sharedfiles/filedetails/?id=333310405)
 - [Enhanced Soundscape](https://steamcommunity.com/sharedfiles/filedetails/?id=825179978)
-- [GOS Sac Ventral](https://steamcommunity.com/sharedfiles/filedetails/?id=918921551)
-- [Jbad](https://steamcommunity.com/sharedfiles/filedetails/?id=520618345)
-- [LYTHIUM](https://steamcommunity.com/sharedfiles/filedetails/?id=909547724)
-- [MCC Sandbox 4](https://steamcommunity.com/sharedfiles/filedetails/?id=338988835)
-- [Project OPFOR](https://steamcommunity.com/sharedfiles/filedetails/?id=735566597)
 - [RHSAFRF](https://steamcommunity.com/sharedfiles/filedetails/?id=843425103)
+- [RHSGREF](https://steamcommunity.com/sharedfiles/filedetails/?id=843593391)
 - [RHSUSAF](https://steamcommunity.com/sharedfiles/filedetails/?id=843577117)
+- [RHSSAF](https://steamcommunity.com/sharedfiles/filedetails/?id=843632231)
+- [USAF Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=1900726770)
+- [USAF MOD (AC-130Spooky)](https://drive.google.com/open?id=10rFzzJM_zVrhO_8HKqlVLSx31Y3wQhLr)
+- [Project OPFOR](https://steamcommunity.com/sharedfiles/filedetails/?id=735566597)
 - [Specialist Military Arms (SMA)](https://steamcommunity.com/sharedfiles/filedetails/?id=699630614)
+- [CUP Terrains - Core](https://steamcommunity.com/sharedfiles/filedetails/?id=583496184)
+- [PLP Containers](https://steamcommunity.com/sharedfiles/filedetails/?id=504690333)
+- [Diyala Map](https://steamcommunity.com/sharedfiles/filedetails/?id=680808574)
+- [MCC Sandbox 4](https://steamcommunity.com/sharedfiles/filedetails/?id=338988835)
 
-`Steam Workshop Collection` : [CLICK HERE](https://steamcommunity.com/sharedfiles/filedetails/?id=1779705575)
+`Steam Workshop Collection` : [SOON]()
 
 ------------
 
